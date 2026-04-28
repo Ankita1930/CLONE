@@ -20,7 +20,7 @@ Music playback functionality is not implemented.
 - CSS  
 
 ## Live Demo
-https://ankita1930.github.io/CLONE/
+[https://ankita1930.github.io/CLONE/](https://ankita1930.github.io/CLONE/)
 
 ## How to Run
 1. Download or clone the project  
